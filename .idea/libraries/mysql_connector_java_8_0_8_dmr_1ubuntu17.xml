@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java_8.0.8-dmr-1ubuntu17">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Applications/mysql-connector-java_8.0.8-dmr-1ubuntu17.04_all" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Documents/Applications/mysql-connector-java_8.0.8-dmr-1ubuntu17.04_all" recursive="false" />
+  </library>
+</component>
